@@ -1,0 +1,29 @@
+# Node dependencies
+/node_modules
+
+# Build output
+/dist
+/build
+/lib
+/coverage
+
+*.js
+*.js.map
+!jest.config.js
+*.d.ts
+
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode
+
+# Test coverage
+/coverage
+
+# Jest cache
+/jest-cache
+/jest-config.json

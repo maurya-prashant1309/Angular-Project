@@ -10,7 +10,8 @@
       "./node_modules/@types"
     ],
     "noUnusedParameters": true,
-    "noUnusedLocals": true
+    "noUnusedLocals": true,
+    "noEmitOnError": true
   },
   "exclude": [
     "node_modules"
